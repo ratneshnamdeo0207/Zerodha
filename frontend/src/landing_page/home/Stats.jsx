@@ -30,7 +30,7 @@ function Stats() {
           <img src="/media/images/ecosystem.png" alt="" style={{width: "100%"}}/>
         <div className='mt-3 text-center'>
           <a href="#" style={{textDecoration: "none"}} >Explore our products 
-            <i class="fa-solid fa-arrow-right-long"></i>
+           &nbsp;&nbsp; <i class="fa-solid fa-arrow-right-long"></i>
           </a>
           <a style={{textDecoration: "none"}} className='mx-5' href="#">Try Kite demo</a>
         </div>

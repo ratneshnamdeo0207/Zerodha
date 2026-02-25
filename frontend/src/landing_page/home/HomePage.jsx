@@ -11,15 +11,15 @@ import Footer from '../Footer'
 function HomePage() {
   return (
    <>
-   <i class="fa-solid fa-house"></i>
-    <Navbar/>
+   
+   
       <Hero/>
       <Awards/>
       <Stats/>
       <Pricing/>
       <Education/>
       <OpenAccount/>
-      <Footer/>
+
    </>
   )
 }

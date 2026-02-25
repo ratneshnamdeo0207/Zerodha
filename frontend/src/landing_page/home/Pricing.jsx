@@ -8,7 +8,7 @@ function Pricing() {
           <h1 className='mb-5'>Unbeatable pricing</h1>
           <p>We pioneered the concept of discount broking and price transparency
             in India. Flat fees and no hidden charges.</p>
-            <a href="#" style={{textDecoration: "none"}} >See Pricing
+            <a href="#" style={{textDecoration: "none"}} >See Pricing &nbsp;&nbsp;
             <i class="fa-solid fa-arrow-right-long"></i>
           </a>
         </div>
@@ -22,7 +22,7 @@ function Pricing() {
                 direct mutual funds</p>
             </div>
             <div className="col p-3 border">
-              <h2 className='mb-4'>₹1</h2>
+              <h2 className='mb-4'>₹20</h2>
               <p>Intraday and F&O</p>
             </div>
           </div>
