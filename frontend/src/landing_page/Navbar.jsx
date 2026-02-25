@@ -3,9 +3,9 @@ import { Link } from "react-router-dom";
 function Navbar() {
   return (
 
-      <nav className="navbar navbar-expand-lg border-bottom " style={{backgroundColor: "white"}}>
+      <nav className="navbar sticky-top navbar-expand-lg border-bottom " style={{backgroundColor: "white"}}>
         <div className="container p-1">
-          <Link to="/"><img src="/media/images/logo.svg" alt="logo" style={{width:"12%"}} /></Link>
+          <Link to="/"><img src="/media/images/logo.svg" alt="logo" style={{width:"20%"}} /></Link>
           <button
             className="navbar-toggler"
             type="button"

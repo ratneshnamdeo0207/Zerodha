@@ -1,10 +1,12 @@
 import React from 'react'
-
+import Hero from "./Hero"
+import Universe from './Universe'
 function ProductPage() {
   return (
-    <div>
-      <h1>Product Page</h1>
-    </div>
+    <>
+      <Hero/>
+      <Universe/>
+    </>
   )
 }
 
