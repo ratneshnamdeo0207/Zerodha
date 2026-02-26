@@ -10,8 +10,8 @@ function Footer() {
             <p className='fs-6'>&copy; 2010 - 2024, Not Zerodha Broking Ltd. All rights reserved.</p>
           </div>
           <div className="col mt-5">
-            <p>Account</p>
-              <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>About</a>
+            <h5 className='mb-4'>Account</h5>
+             
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Open demat account</a>
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Minor demat account</a>
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>NRI demat account</a>
@@ -19,12 +19,12 @@ function Footer() {
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Dematerialisation</a>
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Fund transfer</a>
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>MTF</a>
-              <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>program</a>
+              <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Referral program</a>
               
               
           </div>
           <div className="col mt-5">
-            <p>Support</p>
+            <h5 className='mb-4'>Support</h5>
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Contact us</a>
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Support portal</a>
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>How to file a complaint?</a>
@@ -38,7 +38,7 @@ function Footer() {
               
           </div>
           <div className="col mt-5">
-            <p>Company</p>
+            <h5 className='mb-4'>Company</h5>
             <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>About</a>
             <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Philosophy</a>
             <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Press & media</a>
@@ -48,7 +48,7 @@ function Footer() {
             <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}> Open source</a>
           </div>
           <div className="col mt-5">
-            <p>Quick links</p>
+            <h5 className='mb-4'>Quick links</h5>
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Upcoming IPOs</a>
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Brokerage charges</a>
               <a href="" className='text-muted d-block mb-3' style={{textDecoration: "none"}}>Market holidays</a>

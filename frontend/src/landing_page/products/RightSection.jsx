@@ -4,9 +4,9 @@ function RightSection({imgUrl, productTitle, productDescription, link1, link2, l
   return (
     <div className="container">
         <div className="row">
-            <div className="col-4 mt-5">
-                <br /><br /><br /><br />    
-                <h4 className='mt-3 mb-4'>{productTitle}</h4>
+            <div className="col-4 mt-5 pt-4">
+                 <div className="mt-5 pt-4"></div>
+                <h4 className='mt-3 mb-4 '>{productTitle}</h4>
                 <p style={{lineHeight:"2", fontSize:"16px"}}>{productDescription}</p>
 
                 <div className='mt-4'>
