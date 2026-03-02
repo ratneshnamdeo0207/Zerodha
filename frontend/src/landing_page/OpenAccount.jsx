@@ -5,7 +5,7 @@ function OpenAccount() {
      <div className="container">
       <div className="row text-center ">
   
-        <img className="mb-5" src="/media/images/homeHero.png" alt="homeHero.png" />
+        
         <h1 className="mt-5 mb-4">Open a Zerodha account</h1>
         <p className='mb-4'> Modern platforms and apps, ₹0 investments, and flat ₹20 intraday and
           F&O trades.</p>
